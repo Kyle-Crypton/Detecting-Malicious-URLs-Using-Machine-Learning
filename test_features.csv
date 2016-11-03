@@ -1,0 +1,2 @@
+safebrowsing,token_count,avg_path_token,largest_path,largest_token,URL,sec_sen_word_cnt,IPaddress_presence,largest_domain,No_of_dots,host,Length_of_url,ASNno,rank_country,rank_host,path_token_count,domain_token_count,path,avg_token_length,avg_domain_token_length,Length_of_host
+-1,3,0,0,4,http://jd.com,0,0,3,1,jd.com,13,-1,14,99,0,2,,3.0,2.5,6
